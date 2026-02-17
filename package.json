@@ -11,7 +11,7 @@
         "format": "prettier --single-quote --write *.js"    
     },
     "devDependencies": {
-        "eslint": "^9.32.0",
+        "eslint": "^10.0.0",
         "prettier": "^2.0.5"
       },
     "dependencies": {
